@@ -1,7 +1,8 @@
 ### Each directory and file, which starts with dot
 .*
-### But not Git ignore and Travis file
+### But not Git ignore/hub and Travis file
 !.gitignore
+!.github
 !.travis.yml
 
 # Compiled class file
